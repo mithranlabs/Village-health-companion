@@ -1,7 +1,7 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
+Link to the dashboard : https://github.com/BharatHG1234/speak-heal-sync.git
 ## Get started
 
 1. Install dependencies
